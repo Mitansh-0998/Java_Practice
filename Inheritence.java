@@ -42,7 +42,7 @@ class sub2 extends sub1
 		this.num3=num3;
 	}
 }
-public class Demo
+public class Inheritence
 {
 	public static void main(String args[])
 	{
